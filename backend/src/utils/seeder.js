@@ -249,6 +249,10 @@ const seedData = async () => {
         category: 'Mobiles',
         brand: 'Google',
         stock: 12,
+        image: 'https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=1000&q=80',
+        images: [
+          'https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=1000&q=80'
+        ],
         rating: 4.7,
         numReviews: 36,
         featured: true
